@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Learn.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  MyClass.cpp
+c:\users\hao\documents\visual studio 2015\projects\learn\learn\myclass.cpp(12): warning C4003: “MY_PRINT1”宏的实参不足
+c:\users\hao\documents\visual studio 2015\projects\learn\learn\myclass.cpp(18): warning C4003: “MY_PRINT1”宏的实参不足
+  Learn.vcxproj -> C:\Users\hao\Documents\Visual Studio 2015\Projects\Learn\Debug\MyTestAPP.exe
+  Learn.vcxproj -> C:\Users\hao\Documents\Visual Studio 2015\Projects\Learn\Debug\MyTestAPP.pdb (Full PDB)
